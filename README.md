@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimichanga77
 - I’m interested in R, RMarkdown, Quarto and Python
-- I’m currently learning SEM, R, and flexdashboard use
+- I’m currently learning SEM and flexdashboard use
 
 
 <!---
